@@ -1,1 +1,1 @@
-read me but edited through codespaces.
+ReadMe but edited through codespaces.
